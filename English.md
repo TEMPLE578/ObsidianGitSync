@@ -38,3 +38,52 @@ first wave: fight for women's legal and democratic rights (late 19th to early 20
 second wave: challenged the discrimination against women in society and culture more broadly (1950s and 1970s)
 third wave: sought to diversify approaches to the right of women greater account to class race and sexuality and challenged binary notions of gender(1980 1990)
 fourth wave? fueled by the rise of social media deal with issues for sexual abuse and violence
+
+
+Percepolis
+
+Maya Angelou 
+
+Media literacy
+
+Death of the kings horseman
+
+
+Types of Context
+P - Personal context
+-- 
+How does his context affect his writing? His perspective 
+
+- Biography
+- Date of Birth
+- Date of death
+- Family - what their family does
+- 3 significant childhood experiences 
+- Education
+- Career
+- Notable works and Awards
+
+P - Political context
+--
+Who is in power, who has control. Who can do what?
+
+H - Historical context
+-- 
+E - Economic
+--
+
+C - Cultural
+-- 
+S - Social
+--
+
+
+
+Literary lenses
+
+Areas of exploration
+1. Readers, Writers, Text
+
+- Why do we study language and literature
+- How are we affected by texts
+- In what ways is meaning constructed, negotiated, expressed and interpreted?
