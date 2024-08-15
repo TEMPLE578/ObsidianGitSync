@@ -42,3 +42,9 @@ The exponent rules are: Product of powers rule — Add powers together when mult
 ![[Pasted image 20240815075837.png|367]]
 ![[Math AI-20240815080313612.webp|357]]
 ![[Math AI-20240815081037116.webp|315]]
+
+Sample Questions:
+![[Math AI-20240815110123621.webp|376]]
+
+blabla
+
