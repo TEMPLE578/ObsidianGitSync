@@ -45,3 +45,5 @@ Objectivity
 Responsibility
 Explaination
 Evidence
+Perspective 
+TRu
