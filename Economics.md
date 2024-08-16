@@ -186,7 +186,7 @@ Refutation
 
 MODEL: Production Possibility Curve
 
-- Talking about the possibi
+- Talking about the possibilities of producing.
 
 
 
