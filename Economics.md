@@ -106,4 +106,4 @@ Advantages and disadvantages of an economic system
 
 - Free Market
 	- Freedom to make their own choices
-	- Effeciecy 
+	- Effeciency is  
