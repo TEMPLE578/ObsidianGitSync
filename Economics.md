@@ -134,7 +134,9 @@ Positive Economics
 - The Roles of Positive economics: Use of logic; hypothese/ modles/ theories; ceteris paribus assumption; empirical evidence; refutation (going against)
 
 Normative Economics
-- based on values
+- based on values, opinions and judgments
+- prescriptive
+- 
 The Role of Normative economics: Value judgements in policy making; and meaning of equity & equality
 
 
