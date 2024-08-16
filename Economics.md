@@ -133,6 +133,7 @@ Positive Economics
 - Analyses ca
 - The Roles of Positive economics: Use of logic; hypothese/ modles/ theories; ceteris paribus assumption; empirical evidence; refutation (going against)
 
+No
 The Role of Normative economics: Value judgements in policy making; and meaning of equity & equality
 
 
