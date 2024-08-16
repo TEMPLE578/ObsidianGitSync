@@ -104,4 +104,5 @@ Private Sector
 
 Advantages and disadvantages of an economic system
 
-- Free Mar
+- Free Market
+	- Free
