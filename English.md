@@ -127,7 +127,7 @@ Authorial Choices
 		 
 		 - Unconventional Syntax
 			 - omission - "open the door" vs "Uly open the door" (lack of subject)
-			 - Inversion - Re-arrangment of words, like how Yoda speaks
+			 - Inversion - Re-arrangment/inverof words, like how Yoda speaks
 			 - Interruption - Sentence interrupted by an individual thought
  b. Stylistic Devices(rhetorical devices)
  
