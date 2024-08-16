@@ -43,4 +43,5 @@ Certainty
 Culture
 Objectivity
 Responsibility
-Expla
+Explaination
+Evidence
