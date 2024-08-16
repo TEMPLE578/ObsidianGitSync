@@ -131,5 +131,5 @@ The Roles of Positive economics: Use of logic; hypothese/ modles/ theories; cete
 
 The Role of Normative economics: Value judgements in policy making; and meaning of equity & equality
 
-e
+The Economic Thought: 
 
