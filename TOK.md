@@ -52,4 +52,3 @@ Justification
 Power
 Values
 
-TOK i
