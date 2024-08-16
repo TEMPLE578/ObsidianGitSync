@@ -117,5 +117,6 @@ Authorial Choices
 	- Register(degree of formality)
 	
  - Sentence Level
+ 
  b. Stylistic Devices(rhetorical devices)
  
