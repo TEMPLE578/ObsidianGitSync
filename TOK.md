@@ -43,7 +43,7 @@ Certainty
 Culture
 Objectivity
 Responsibility
-Explaination
+Explanation
 Evidence
 Perspective 
 Truth
