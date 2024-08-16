@@ -109,4 +109,5 @@ BOW
 	- a connecting theme, plot or characteristic in a move, flim, or book
 
 Authorial Choices
-- LAn
+- Language
+- 
