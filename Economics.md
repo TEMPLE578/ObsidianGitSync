@@ -128,7 +128,8 @@ Advantages and disadvantages of an economic system
 Methodology
 
 Positive Economics
-- based on dat
+- based on data and facts
+- descripti
 - The Roles of Positive economics: Use of logic; hypothese/ modles/ theories; ceteris paribus assumption; empirical evidence; refutation (going against)
 
 The Role of Normative economics: Value judgements in policy making; and meaning of equity & equality
