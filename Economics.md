@@ -188,5 +188,7 @@ MODEL: Production Possibility Curve
 
 - Talking about the possibilities of producing.
 
+Allocative effie
+
 
 
