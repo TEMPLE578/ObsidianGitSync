@@ -52,4 +52,4 @@ Justification
 Power
 Values
 
-TOK is structu
+TOK is structured into 6 big questio
