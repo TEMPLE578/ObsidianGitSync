@@ -52,5 +52,4 @@ Justification
 Power
 Values
 
-TOK is structured into 6 big questions
-
+TOK i
