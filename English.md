@@ -100,4 +100,4 @@ Questions to ask when you analyze texts
 4. What is the structure of the text?
 5. What language does he use? How and Why?
 6. What stylistic devices does he use? How and Why?
-7. What is the effect on the reader?(YOU)
+7. What is the effect on the reader?(YOU) Has the author achieved his purpose
