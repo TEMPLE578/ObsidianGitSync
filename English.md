@@ -112,7 +112,8 @@ Authorial Choices
  a. Language
  - Word Level
 	 - Diction
-		 - Witi used a l
+		 - Witi used a lot of glossed words
+		
  - Sentence Level
  b. Stylistic Devices(rhetorical devices)
  
