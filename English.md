@@ -122,7 +122,9 @@ Authorial Choices
 		
  - Sentence Level
 	 - Syntax 
+	 
 		 - Conventional
+		 
 		 - Unconventional 
  
  b. Stylistic Devices(rhetorical devices)
