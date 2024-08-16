@@ -95,4 +95,4 @@ Areas of exploration
 Questions to ask when you analyze texts
 
 1. What type of text is it?(Source and content)
-2. What is the aim or p
+2. What is the aim or purpose of the author? Wha
