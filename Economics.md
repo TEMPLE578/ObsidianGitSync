@@ -171,4 +171,6 @@ Part of the process of abstraction
 
 This concept helps us simplify reality to focus on the relationships that interest us
 
-Testing theories and models: Empir
+Testing theories and models: Empirical Economics
+
+The collection and use
