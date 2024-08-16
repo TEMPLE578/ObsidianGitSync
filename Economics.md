@@ -165,4 +165,6 @@ Variable: A measure that can change form time to time or from observation to obs
 
 Ceteris parbius = all else qual
 
-A device used to analyze the relationship between 2 variables while tha values of other variables are unchange
+A device used to analyze the relationship between 2 variables while tha values of other variables are unchanged.
+
+Part of the prov
