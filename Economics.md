@@ -158,5 +158,5 @@ Use of logic in economy: the economic rationality
 
 Theory: a statement or set of related statements about cause and effect, action and reaction
 
-Model: formal statement of theory, can be drawn a
+Model: formal statement of theory, can be drawn and is usually ma
 
