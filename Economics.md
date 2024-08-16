@@ -112,3 +112,4 @@ Advantages and disadvantages of an economic system
 	- asdas
 
 - Mixed economy 
+
