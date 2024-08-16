@@ -118,7 +118,8 @@ Authorial Choices
 
 	- Connotation vs denotation
 		- Connotation -
-		- 
+		- Denotation
+		
  - Sentence Level
  
  b. Stylistic Devices(rhetorical devices)
