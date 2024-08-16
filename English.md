@@ -110,4 +110,4 @@ BOW
 
 Authorial Choices
  a. Language
- b stylisti
+ b Styli
