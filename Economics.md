@@ -111,4 +111,4 @@ Advantages and disadvantages of an economic system
 	- Free markets can take advantage of people.
 	- asdas
 
-Mixed
+- Mixed E
