@@ -50,3 +50,4 @@ Truth
 Interpretation 
 Justification
 Power
+Values
