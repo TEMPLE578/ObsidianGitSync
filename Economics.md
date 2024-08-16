@@ -94,7 +94,10 @@ Centrally planned economic system
 - an economic system where resources are allocated by the government or a central planning authority
 
 Mixed Economy
-- combination of both planned and free market system
+- combination of both planned and free market systems and includes both a private and public sector.
 
 Public Sector 
-- the (government sector) which controls basic services e.g.
+- the (government sector) which controls basic services e.g. schools, hospitals, roads as well as some key industries
+
+Private Sector 
+- the sector of the economy providing services, free from government control although dangerous goods are illegal e.g. drugs, weapons, etc.
