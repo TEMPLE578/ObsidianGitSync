@@ -129,6 +129,6 @@ Authorial Choices
 			 - omission - "open the door" vs "Uly open the door" (lack of subject)
 			 - Inversion - Re-arrangment/inversion of words, like how Yoda speaks "beautiful is the moon"
 			 - Interruption - Sentence interrupted by an individual thought. Subject(random words)continuation
-			 - Delayed Construction - 
+			 - Delayed Construction - (random info)
  b. Stylistic Devices(rhetorical devices)
  
