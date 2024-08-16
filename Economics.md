@@ -118,5 +118,6 @@ Advantages and disadvantages of an economic system
 	- asdasdasda
 	- asdasdasd
 
-- Planned E
+- Planned Economy
+		
 
