@@ -116,7 +116,8 @@ Authorial Choices
 	
 	- Register(degree of formality)
 
-	- Connotational vs denotational
+	- Connotation vs denotation
+	
  - Sentence Level
  
  b. Stylistic Devices(rhetorical devices)
