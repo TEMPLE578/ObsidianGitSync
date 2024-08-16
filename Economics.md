@@ -173,4 +173,4 @@ This concept helps us simplify reality to focus on the relationships that intere
 
 Testing theories and models: Empirical Economics
 
-The collection and use
+The collection and use of data to test economic th
