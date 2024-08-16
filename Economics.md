@@ -139,7 +139,8 @@ Normative Economics
 - passes value judgments
 - subjective
 - statements can't be tested
-- prov
+- provides solutions based on values
+- 
 The Role of Normative economics: Value judgements in policy making; and meaning of equity & equality
 
 
