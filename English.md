@@ -123,7 +123,7 @@ Authorial Choices
  - Sentence Level
 	 - Syntax 
 		 - Conventional
-		 - Unconventio
+		 - Unconventional 
  
  b. Stylistic Devices(rhetorical devices)
  
