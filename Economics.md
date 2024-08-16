@@ -169,4 +169,4 @@ A device used to analyze the relationship between 2 variables while tha values o
 
 Part of the process of abstraction
 
-This concept helps us simplify reality to focus on t
+This concept helps us simplify reality to focus on the relationshi
