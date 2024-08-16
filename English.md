@@ -111,7 +111,7 @@ BOW
 Authorial Choices
  a. Language
  - Word Level
-	 - diction
+	 - 
  - Sentence Level
  b. Stylistic Devices(rhetorical devices)
  
