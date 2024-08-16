@@ -89,4 +89,5 @@ Areas of exploration
 - In what ways is meaning constructed, negotiated, expressed and interpreted?
 
 2. Time and Space
-3.
+
+3. Intertex
