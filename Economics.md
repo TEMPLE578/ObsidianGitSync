@@ -108,4 +108,4 @@ Advantages and disadvantages of an economic system
 	- Freedom to make their own choices
 	- Effeciency is improved because profit acts a signal to improve more
 
-	
+	- 
