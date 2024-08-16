@@ -38,3 +38,4 @@ Dogmatic closes you to the possibility of being wrong. Open yourself up to learn
 4. Collaboration
 
 THE TOK WORLD
+ 
