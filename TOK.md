@@ -51,3 +51,5 @@ Interpretation
 Justification
 Power
 Values
+
+TOK is structu
