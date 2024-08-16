@@ -94,4 +94,4 @@ Areas of exploration
 
 Questions to ask when you analyze texts
 
-1. What type of tex
+1. What type of text is it?(Source and content)
