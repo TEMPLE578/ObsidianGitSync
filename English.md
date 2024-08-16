@@ -132,6 +132,7 @@ Authorial Choices
 			 - Delayed Construction - (random info)
  b. Stylistic Devices(rhetorical devices)
 
-
+- Figure of language
+- Moods of persuasion 
 
 
