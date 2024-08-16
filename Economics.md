@@ -150,4 +150,5 @@ The Economic Thought: Origin of economic ideas - 18th, 91th ,20th and 21st centu
 
 Use of logic in economy: the economic rationality
 
-- Rational individuals posses all information fully, objectively and costlessy
+- Rational individuals posses all information fully, objectively and costlessly
+- 
