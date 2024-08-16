@@ -160,5 +160,5 @@ Theory: a statement or set of related statements about cause and effect, action 
 
 Model: formal statement of theory, can be drawn and is usually mathematical statement
 
-Variable: Am
+Variable: A measure that can change form time to ti
 
