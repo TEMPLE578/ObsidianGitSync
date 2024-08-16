@@ -110,5 +110,6 @@ BOW
 
 Authorial Choices
  a. Language
- -
+ - Word Level
+ - 
  b Stylistic Devices.
