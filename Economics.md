@@ -167,4 +167,5 @@ Ceteris parbius = all else qual
 
 A device used to analyze the relationship between 2 variables while tha values of other variables are unchanged.
 
-Part of the prov
+Part of the process of abstraction
+
