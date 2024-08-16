@@ -110,4 +110,5 @@ BOW
 
 Authorial Choices
  a. Language
- b Styli
+ -
+ b Stylistic Devices.
