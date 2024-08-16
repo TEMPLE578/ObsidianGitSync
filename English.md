@@ -96,7 +96,8 @@ Questions to ask when you analyze texts
 1-2 first paragraph
 3-4 next paragraph
 5-6 last
-7 concluding
+7 concluding paragraph
+
 1. What type of text is it?(Source and content)
 2. What is the aim or purpose of the author? What is his intended impact? Who is his target audience?
 3. What is he communicating? (Content, ideas, themes)
