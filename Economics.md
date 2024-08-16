@@ -159,7 +159,7 @@ Use of logic in economy: the economic rationality
 Theory: a statement or set of related statements about cause and effect, action and reaction
 
 Model: formal statement of theory, can be drawn and is usually mathematical statement
-- Most common way pdf expr
+- Most common way pdf expressing 
 Variable: A measure that can change form time to time or from observation to observation
 
 
