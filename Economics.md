@@ -184,7 +184,9 @@ Refutation
 - show to be false or erroneous
 - to deny the truth or accuracy
 
-MODEL: Production Possibility CUr
+MODEL: Production Possibility Curve
+
+- 
 
 
 
