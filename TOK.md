@@ -37,5 +37,4 @@ Dogmatic closes you to the possibility of being wrong. Open yourself up to learn
 3. Creativity 
 4. Collaboration
 
-THE TOK WORLD
- 
+12 Key c
