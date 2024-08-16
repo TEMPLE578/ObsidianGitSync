@@ -180,7 +180,7 @@ A common error made in thinking about causation
 If event A happens before event B, it 
 
 Refutation
-- to prove wrong 
+- to prove wrong by  argument 
 
 
 
