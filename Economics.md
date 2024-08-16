@@ -162,3 +162,5 @@ Model: formal statement of theory, can be drawn and is usually mathematical stat
 
 Variable: A measure that can change form time to time or from observation to observation
 
+
+
