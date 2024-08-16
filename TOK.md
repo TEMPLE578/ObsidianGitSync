@@ -42,3 +42,5 @@ Dogmatic closes you to the possibility of being wrong. Open yourself up to learn
 Certainty
 Culture
 Objectivity
+Responsibility
+Expla
