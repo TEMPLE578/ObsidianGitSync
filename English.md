@@ -126,7 +126,7 @@ Authorial Choices
 		 - Conventional
 		 
 		 - Unconventional 
-			 - omion - 
+			 - omission - 
  
  b. Stylistic Devices(rhetorical devices)
  
