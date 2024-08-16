@@ -60,3 +60,41 @@ o
 7. Change
 8. Equity
 9. Sustainability 
+
+Factors of production 
+
+4 factors
+1. Land
+- Consider things under the land like gold and minerals
+- "                        " above the land as well 
+2. Labour
+- work force of people
+3. Capital
+- Machinery, equipment and money
+5. Entrepreneurship
+- Business system/modal of a company
+- Entrepeneurs are people who run and control the business
+
+Key terms:
+
+Economic Systems
+- How economies are run
+- to benefit the people
+- the economic order
+- is a system of production, resource allocation and distribution of goods and services
+
+Free market economic systems 
+- A free market economy is driven by supply and demand with minimal government intervention. 
+	- supply is the availability of products
+	- demand is the desire to buy products
+- Businesses compete freely to produce goods and services, and consumers choose what to buy. 
+- Prices are determined by the market, not by government control.
+	
+Centrally planned economic system
+- an economic system where resources are allocated by the government or a central planning authority
+
+Mixed Economy
+- combination of both planned and free market system
+
+Public Sector 
+- the (government sector) which controls basic services e.g.
