@@ -182,7 +182,7 @@ If event A happens before event B, it
 Refutation
 - to prove wrong by  argument or evidence
 - show to be false or erroneous
-- to deny the 
+- to deny the truth or accuracy
 
 
 
