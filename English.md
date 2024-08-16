@@ -105,4 +105,4 @@ Questions to ask when you analyze texts
 BOW
 - Body of Works
 - Through lines
-	- Connecting theme, plot or characteristic in a move, flim or book
+	- Connecting theme, plot or characteristic in a move, flim, or book
