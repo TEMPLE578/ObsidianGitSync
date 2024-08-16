@@ -156,4 +156,4 @@ Use of logic in economy: the economic rationality
 - "                              "
 - "                              "
 
-
+Theory: a
