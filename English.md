@@ -111,7 +111,8 @@ BOW
 Authorial Choices
  a. Language
  - Word Level
-	 - 
+	 - Diction
+		 - Witi used a l
  - Sentence Level
  b. Stylistic Devices(rhetorical devices)
  
