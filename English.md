@@ -98,4 +98,4 @@ Questions to ask when you analyze texts
 2. What is the aim or purpose of the author? What is his intended impact?
 3. What is he communication to whom? (Content, ideas, themes)
 4. What is the structure of the text?
-5. What language does
+5. What language does he use? How and Why?
