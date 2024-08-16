@@ -136,6 +136,7 @@ Positive Economics
 Normative Economics
 - based on values, opinions and judgments
 - prescriptive
+- passes value jud
 - subjective
 - statements can't be tested
 The Role of Normative economics: Value judgements in policy making; and meaning of equity & equality
