@@ -87,3 +87,5 @@ Areas of exploration
 - Why do we study language and literature
 - How are we affected by texts
 - In what ways is meaning constructed, negotiated, expressed and interpreted?
+
+r
