@@ -125,8 +125,9 @@ Authorial Choices
 	 
 		 - Conventional
 		 
-		 - Unconventional 
+		 - Unconventional Syntax
 			 - omission - "open the door" vs "Uly open the door" (lack of subject)
 			 - Inversion - 
+			 - 
  b. Stylistic Devices(rhetorical devices)
  
