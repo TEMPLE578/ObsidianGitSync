@@ -131,4 +131,7 @@ Authorial Choices
 			 - Interruption - Sentence interrupted by an individual thought. Subject(random words)continuation
 			 - Delayed Construction - (random info)
  b. Stylistic Devices(rhetorical devices)
- 
+
+
+
+
