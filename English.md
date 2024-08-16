@@ -126,7 +126,7 @@ Authorial Choices
 		 - Conventional
 		 
 		 - Unconventional 
-			 - omission - "open the door" vs "Uly open the door"
+			 - omission - "open the door" vs "Uly open the door" (lack of subject)
  
  b. Stylistic Devices(rhetorical devices)
  
