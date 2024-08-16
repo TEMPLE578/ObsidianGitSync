@@ -188,7 +188,7 @@ MODEL: Production Possibility Curve
 
 - Talking about the possibilities of producing.
 
-Allocative efficiency - Effeciency in allocating recources
+Allocative efficiency - Effeciency in allocating resources = full emp
 
 
 
