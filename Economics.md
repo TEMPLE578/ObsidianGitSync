@@ -156,4 +156,7 @@ Use of logic in economy: the economic rationality
 - "                              "
 - "                              "
 
-Theory: a statement or set of related statements about cause and effect
+Theory: a statement or set of related statements about cause and effect, action and reaction
+
+Model;
+
