@@ -97,11 +97,10 @@ Questions to ask when you analyze texts
 1. What type of text is it?(Source and content)
 2. What is the aim or purpose of the author? What is his intended impact?
 3. What is he communication to whom? (Content, ideas, themes)
-
-5. What is the structure of the text?
-6. What language does he use? How and Why?
-7. What stylistic devices does he use? How and Why?
-8. What is the effect on the reader?(YOU) Has the author achieved his purpose
+4. What is the structure of the text?
+5. What language does he use? How and Why?
+6. What stylistic devices does he use? How and Why?
+7. What is the effect on the reader?(YOU) Has the author achieved his purpose
 
 BOW
 - Body of Works
