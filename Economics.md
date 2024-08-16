@@ -102,4 +102,4 @@ Public Sector
 Private Sector 
 - the sector of the economy providing services, free from government control although dangerous goods are illegal e.g. drugs, weapons, etc.
 
-Advantages a
+Advantages of an economic system
