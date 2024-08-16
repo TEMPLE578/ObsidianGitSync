@@ -114,5 +114,6 @@ Advantages and disadvantages of an economic system
 - Mixed economy 
 	- asdasda
 	- asdasdasd
-	- 
+
+		-as
 
