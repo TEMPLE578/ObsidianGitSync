@@ -88,4 +88,5 @@ Areas of exploration
 - How are we affected by texts
 - In what ways is meaning constructed, negotiated, expressed and interpreted?
 
-r
+2. Time and Space
+3.
