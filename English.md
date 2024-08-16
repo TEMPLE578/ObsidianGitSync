@@ -122,5 +122,6 @@ Authorial Choices
 		
  - Sentence Level
  
+ 
  b. Stylistic Devices(rhetorical devices)
  
