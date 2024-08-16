@@ -37,4 +37,6 @@ Dogmatic closes you to the possibility of being wrong. Open yourself up to learn
 3. Creativity 
 4. Collaboration
 
-12 Key c
+12 Key concepts in TOK
+
+C
