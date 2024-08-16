@@ -113,6 +113,7 @@ Authorial Choices
  - Word Level
 	 - Diction
 		 - Witi used a lot of glossed words
+	
 	- Register(degree of formality)
 	
  - Sentence Level
