@@ -114,6 +114,7 @@ Authorial Choices
 	 - Diction
 		 - Witi used a lot of glossed words
 	- Register(degree of formality)
+	
  - Sentence Level
  b. Stylistic Devices(rhetorical devices)
  
