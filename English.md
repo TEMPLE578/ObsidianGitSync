@@ -93,7 +93,7 @@ Areas of exploration
 3. Intertextuality
 
 Questions to ask when you analyze texts
-1-3 first paragraph
+1-2 first paragraph
 
 1. What type of text is it?(Source and content)
 2. What is the aim or purpose of the author? What is his intended impact? Who is his target audience?
