@@ -128,7 +128,7 @@ Authorial Choices
 		 - Unconventional Syntax
 			 - omission - "open the door" vs "Uly open the door" (lack of subject)
 			 - Inversion - Re-arrangment/inversion of words, like how Yoda speaks "beautiful is the moon"
-			 - Interruption - Sentence interrupted by an individual thought. (s)
+			 - Interruption - Sentence interrupted by an individual thought. Subject(random words)
 			 - Delayed Construction - 
  b. Stylistic Devices(rhetorical devices)
  
