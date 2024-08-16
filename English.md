@@ -118,7 +118,7 @@ Authorial Choices
 
 	- Connotation vs denotation
 		- Connotation -
-		- Denotation
+		- Denotation - 
 		
  - Sentence Level
  
