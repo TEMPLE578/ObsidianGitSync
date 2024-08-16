@@ -103,3 +103,5 @@ Questions to ask when you analyze texts
 7. What is the effect on the reader?(YOU) Has the author achieved his purpose
 
 BOW
+
+- 
