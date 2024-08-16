@@ -133,6 +133,7 @@ Authorial Choices
  b. Stylistic Devices(rhetorical devices)
 
 - Figure of language
-- Moods of persuasion 
+- Modes of persuasion 
+- 
 
 
