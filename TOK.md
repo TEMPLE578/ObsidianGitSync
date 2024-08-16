@@ -48,3 +48,5 @@ Evidence
 Perspective 
 Truth
 Interpretation 
+Justification
+Power
