@@ -148,4 +148,4 @@ The Economic Thought: Origin of economic ideas - 18th, 91th ,20th and 21st centu
 (2 economists, Name & contribution in Economics)
 
 
-Use of logic i
+Use of logic in economy: the ec
