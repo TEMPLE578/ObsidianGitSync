@@ -140,7 +140,7 @@ Normative Economics
 - subjective
 - statements can't be tested
 - provides solutions based on values
-- 
+
 The Role of Normative economics: Value judgements in policy making; and meaning of equity & equality
 
 
