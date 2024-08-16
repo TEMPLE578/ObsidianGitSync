@@ -90,4 +90,4 @@ Areas of exploration
 
 2. Time and Space
 
-3. Intertex
+3. Intertextualitu
