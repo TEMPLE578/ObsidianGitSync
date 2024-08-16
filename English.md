@@ -121,7 +121,7 @@ Authorial Choices
 		- Denotation - 
 		
  - Sentence Level
- 
+	 - Syntax 
  
  b. Stylistic Devices(rhetorical devices)
  
