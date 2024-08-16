@@ -94,4 +94,4 @@ Areas of exploration
 
 Questions to ask when you analyze texts
 
-1. W
+1. What type of tex
