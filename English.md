@@ -99,3 +99,4 @@ Questions to ask when you analyze texts
 3. What is he communication to whom? (Content, ideas, themes)
 4. What is the structure of the text?
 5. What language does he use? How and Why?
+6. Wh
