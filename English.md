@@ -92,4 +92,6 @@ Areas of exploration
 
 3. Intertextuality
 
-Questions to ask w
+Questions to ask when you analyze texts
+
+1. W
