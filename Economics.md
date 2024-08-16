@@ -188,7 +188,7 @@ MODEL: Production Possibility Curve
 
 - Talking about the possibilities of producing.
 
-Allocative efficiency - Effeciency in allocating resources = full employment of the 4 factors of effec
+Allocative efficiency - Effeciency in allocating resources = full employment of the 4 factors of Effeciency 
 
 
 
