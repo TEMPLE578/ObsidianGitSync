@@ -90,4 +90,6 @@ Areas of exploration
 
 2. Time and Space
 
-3. Intertextualitu
+3. Intertextuality
+
+Questions to ask w
