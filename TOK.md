@@ -46,4 +46,5 @@ Responsibility
 Explaination
 Evidence
 Perspective 
-TRu
+Truth
+Interpretation 
