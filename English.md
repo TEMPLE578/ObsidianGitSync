@@ -117,6 +117,7 @@ Authorial Choices
 	- Register(degree of formality)
 
 	- Connotation vs denotation
+		- Connotation -
 		- 
  - Sentence Level
  
